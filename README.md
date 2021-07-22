@@ -3,8 +3,7 @@ This is group project made for CSC data structure class, using Java, SQL.
 
 Group Project
 Member：
-Fengnan Zhang 
-Ahmed Diab
+Fengnan Zhang , Ahmed Diab
 
 The purpose of this program: 
 During the pandemic situation everyone working at home. For my school, we have been using email and phone calls to deal with all things most of the time. 
